@@ -1,0 +1,12 @@
+.c1 a{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+.service-item:hover{
+    background-color: rgb(212, 225, 236);
+    transition: transform .4s; /* Animation */
+    transform: scale(1.1);
+}
+

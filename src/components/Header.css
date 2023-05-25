@@ -1,0 +1,20 @@
+*{
+    scroll-behavior: smooth;
+}
+
+#basic-navbar-nav{
+    justify-content: center;
+}
+
+.links{
+    margin-left: 57px;
+    color: rgb(200, 54, 54);
+}
+
+.links:hover{
+    color: rgb(255, 254, 255);
+}
+
+.active{
+    color: rgb(200, 54, 54) !important;
+}
