@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myPortfolio---React.js/static/css/main.5c8eb362.css",
+    "main.js": "/myPortfolio---React.js/static/js/main.08f9a1b8.js",
+    "static/media/image2.jpg": "/myPortfolio---React.js/static/media/image2.ee96270ff823865ac7c4.jpg",
+    "static/media/image12.png": "/myPortfolio---React.js/static/media/image12.351a7da08eafdc21276b.png",
+    "static/media/image9.png": "/myPortfolio---React.js/static/media/image9.6688ab6b533e104a5d49.png",
+    "static/media/image5.png": "/myPortfolio---React.js/static/media/image5.d94d52e338e94f1c1f76.png",
+    "static/media/image3.jpg": "/myPortfolio---React.js/static/media/image3.10b2ce387694c717b7a3.jpg",
+    "static/media/image11.png": "/myPortfolio---React.js/static/media/image11.9d446e497aa8de81a0a5.png",
+    "static/media/image6.png": "/myPortfolio---React.js/static/media/image6.0904656d255ddaa90f9b.png",
+    "static/media/image8.png": "/myPortfolio---React.js/static/media/image8.10adbca2829dd72db7b1.png",
+    "static/media/image4.png": "/myPortfolio---React.js/static/media/image4.6c24c0b931e6bcc8587c.png",
+    "static/media/image10.png": "/myPortfolio---React.js/static/media/image10.75a3b0fffbf4abf72b43.png",
+    "static/media/image1.jpg": "/myPortfolio---React.js/static/media/image1.52d2727d388fd3222260.jpg",
+    "static/media/image7.png": "/myPortfolio---React.js/static/media/image7.3e2695b0448d630897d6.png",
+    "index.html": "/myPortfolio---React.js/index.html",
+    "main.5c8eb362.css.map": "/myPortfolio---React.js/static/css/main.5c8eb362.css.map",
+    "main.08f9a1b8.js.map": "/myPortfolio---React.js/static/js/main.08f9a1b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c8eb362.css",
+    "static/js/main.08f9a1b8.js"
+  ]
+}
