@@ -50,6 +50,7 @@ const Contact = () => {
                       console.log(error.text);
                     });
                      e.target.reset()
+                     alert('Email sent successfully')
                 }
             
 
