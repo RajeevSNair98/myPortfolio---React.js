@@ -40,7 +40,7 @@ const Home = () => {
           />
         </span>
       </h2>
-                        <p className='mt-4 text-muted'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p className='mt-4 text-muted'>A MERN developer who is interested in problem solving and design thinking</p>
                     <a href="http://www.linkedin.com/in/rajeev-s-nair">
                     <button className='btn btn-primary px-3 mt-3' >See my Linkedin profile</button>
                     </a>
